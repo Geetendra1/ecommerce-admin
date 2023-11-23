@@ -1,13 +1,5 @@
-# Full Stack E-Commerce + Dashboard & CMS: Next.js 13 App Router, React, Tailwind, Prisma, MySQL, 2023
+# Full Stack E-Commerce CMS: Next.js 13 App Router, React, Tailwind, Prisma, MySQL
 
-![Copy of Copy of Fullstack Twitter Clone (1)](https://github.com/AntonioErdeljac/next13-ecommerce-admin/assets/23248726/088760cb-837d-44b7-a959-63089385d0a0)
-
-
-For DEMO, use [Stripe Testing Cards](https://stripe.com/docs/testing)
-
-This is a repository for a Full Stack E-Commerce + Dashboard & CMS: Next.js 13 App Router, React, Tailwind, Prisma, MySQL
-
-[VIDEO TUTORIAL](https://youtu.be/5miHyP6lExg)
 
 Key Features:
 
@@ -36,7 +28,7 @@ Key Features:
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/AntonioErdeljac/next13-ecommerce-admin.git
+git clone this repo
 ```
 
 ### Install packages
